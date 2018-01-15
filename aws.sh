@@ -32,5 +32,5 @@ sudo aws --version
 echo 'AWS Shell Version Check!'
 sudo aws-shell --version
 echo 'AWS Elastic Beanstalk CLI Version Check!'
-sudo awsebcli --version
+sudo eb --version
 
