@@ -24,7 +24,7 @@ echo -e $TEXT_YELLOW
 echo 'APTupdate finished...'
 echo -e $TEXT_RESET
 
-sudo apt-get install ansible
+sudo pip install ansible
 echo -e $TEXT_YELLOW
 echo 'ansible installation finished...'
 echo -e $TEXT_RESET
